@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on EPAM Systems as Software Architect
+- 👀 I’m interested in gamedev and system design
+- 🌱 I’m currently learning Rust language
+- 👯 I’m looking to collaborate on Rust projects
+- 💬 Ask me about Rust and Software Design
+- 📫 How to reach me:
+  - 📧 E-mail: raikbitters@gmail.com
+  - 💬 Telegram: [@raikbitters](https://t.me/raikbitters)
