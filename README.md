@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on EPAM Systems as Software Architect
+- 👋 Hi, I’m Reinhold Shekhtel
+- 🔭 I’m currently working at EPAM Systems as Software Architect
 - 👀 I’m interested in gamedev and system design
 - 🌱 I’m currently learning Rust language
 - 👯 I’m looking to collaborate on Rust projects
