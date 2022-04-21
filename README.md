@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Reinhold Shekhtel
+- 🧙‍♂️ I’m Reinhold Shekhtel
 - 🔭 I’m currently working at EPAM Systems as Software Architect
 - 👀 I’m interested in gamedev and system design
 - 🌱 I’m currently learning Rust language
