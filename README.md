@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 - 🧙‍♂️ I’m Reingold Shekhtel
 - 🔭 I’m currently working at EPAM Systems as Software Architect
-- 👀 I’m interested in gamedev and system design
-- 🌱 I’m currently learning Rust language
-- 👯 I’m looking to collaborate on Rust projects
-- 💬 Ask me about System Design
+- 👀 I’m interested in system design
 - 📫 How to reach me:
   - 📧 E-mail: raikbitters@gmail.com
