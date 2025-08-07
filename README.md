@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about System Design
 - 📫 How to reach me:
   - 📧 E-mail: raikbitters@gmail.com
-  - 💬 Telegram: [@raikbitters](https://t.me/raikbitters)
